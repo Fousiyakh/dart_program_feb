@@ -1,6 +1,6 @@
 void main(){
   String name = "Fousiya K H";
-  int age = 21;
+  int age = 22;
   String emailid ="fousiykh12@gmail.com";
   double cgpa = 7.8;
   print("Personal Details ");
