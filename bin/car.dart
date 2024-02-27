@@ -13,7 +13,7 @@ static String model ="NEXA";
 void main(){
  Car car1 = Car();
  print("Car name = ${car1.carname= "Grand Vitstra"}");
- print("Engine ${}")
+ print("Engine ${car1.engine}");
 
 
 
