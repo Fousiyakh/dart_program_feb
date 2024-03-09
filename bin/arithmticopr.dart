@@ -64,7 +64,7 @@ print(answr);
 /// largest of 3 num
  /// var out ( 10>20 ?(30>10?:20) :  );
 
-  var data = "Fousiya";
+  String data = "Fousiya";
   var output =  data.length ?? "Data is null";
   print (output);
 
