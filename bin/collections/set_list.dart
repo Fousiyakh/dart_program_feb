@@ -34,6 +34,18 @@ void main() {
   print(s7.length);
   /// set union
   print(s3.union(s1));
+  /// set intersection
+  print(s1.intersection(s4));
+  for(int index = 0; index<s1.length;index++){
+    print(s1.elementAt(index));
+  }
+  for(var i in s3){
+    print(i);
+  }
 
-
+  s1.forEach((element)
+  { element++;
+    print(element);
+  });
+  print(s1.contains(100));
 }
